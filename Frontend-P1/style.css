@@ -1,0 +1,204 @@
+@font-face {
+    font-family: Biryani;
+    src: url(Biryani/Biryani-Black.ttf);
+}
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+    background-color: #13141A;
+    margin-left: 30px;
+}
+img{
+    width: 300px;
+    padding-left: 80px;
+}
+.img2{
+    margin-top: -100px;
+    width: 250px;
+    border-radius: 30px;
+    display: flex;
+}
+.caixa2 p{
+    width: 300px;
+    margin-left: 300px;
+    margin-top: 50px;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.caixa3{
+    margin-top: 50px;
+}
+.caixa3 img{
+    border-radius: 10px;
+    width: 350px;
+}
+
+h1{
+    color:#ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.menu{
+    padding-top: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 80px;
+}
+
+.features{
+    padding-left: 80px;
+    padding-top: 50px;
+}
+.menu a{
+    text-decoration: none;
+}
+#mostrar{
+    display: none;
+}
+#passar_mouse:hover #mostrar{
+    display: block;
+}
+.jogos{
+    color: #FDA543;
+    border: 4px solid #FDA543;
+    box-sizing: border-box;
+    display: inline-block;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    padding-top: 15px;
+    font-weight: bold;
+    border-radius: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.caixaJogos{
+    padding-left: 80px;
+    background-color: #FDA543;
+    margin-left: 80px;
+    width: 800px;
+    display: flex;
+    border-radius: 30px;
+}
+
+.jogos2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+    margin-left: -30px;
+    border-radius: 80px;
+}
+.caixaJogos p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 60px;
+    margin-left: -110px;
+}
+
+.rankings{
+    color: #17C69B;
+    border: 4px solid #17C69B;
+    box-sizing: border-box;
+    display: inline-block;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    padding-top: 15px;
+    font-weight: bold;
+    border-radius: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.perfil{
+    color: #FB3640;
+    border: 4px solid #FB3640;
+    box-sizing: border-box;
+    display: inline-block;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    padding-top: 15px;
+    font-weight: bold;
+    border-radius: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.versoes{
+    color: #FA2F75;
+    border: 4px solid #FA2F75;
+    box-sizing: border-box;
+    display: inline-block;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    padding-top: 15px;
+    font-weight: bold;
+    border-radius: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.jogos:hover{
+    color: #FDA543;
+    background-color: #ffffff;
+}
+.rankings:hover{
+    color: #17C69B;
+    background-color: #ffffff;
+}
+.perfil:hover{
+    color: #FB3640;
+    background-color: #ffffff;
+}
+.versoes:hover{
+    color: #FA2F75;
+    background-color: #ffffff;
+}
+
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    margin-left: 40px;
+}
+
+table,
+th,
+td {
+  border: 1px solid #17C69B;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 20px;
+}
+
+tr:hover {
+  background-color:#17C69B;
+}
+
+.fotoRank{
+    width: 200px;
+    margin-left: -70px;
+}
+.posicao{
+    text-align: center;
+}
+table{
+    margin-left: 80px;
+    margin-top: 20px;
+    width: 700px;
+}
+
+.caixaPerfil p{
+    width: 170px;
+    margin-left: 80px;
+    margin-top: 30px;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.caixaPerfil{
+    display: flex;
+}
+.fotoPerfil{
+    width: 180px;
+}
+.fotoPerfil h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    margin-left: 80px;
+    width: 1;
+
+}
