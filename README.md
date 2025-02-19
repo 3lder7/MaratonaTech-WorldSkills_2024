@@ -1,2 +1,1 @@
-Maratona Tech WorldSkills, primeira fase
-update
+Participei da MaratonaTech WorldSkills, a qual foram 3 dias de estudos intensivos para solucionar problemas de Design, Front-End, e Back-End, e fui um dos selecionados para a próxima fase de Capacitação, onde ocorreram mais semanas de estudos e uma prova final para a Seletiva Regional em Soluções de Software para Negócios, a qual também fui aprovado.
